@@ -1,0 +1,2 @@
+tableroCalculadoManualmente.xlsx ES USADO COMO REFERENCIA, NO EN LA APLICACION
+tablero.xlsx es el usado en la aplicación.
